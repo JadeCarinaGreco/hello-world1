@@ -1,5 +1,5 @@
 /*****
- * Edit this line to have your name.
+ * Jade Greco
  ******/
 public class GitDemo {
     
